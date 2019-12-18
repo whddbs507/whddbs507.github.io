@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## '박종윤의 개인 프로젝트'에 오신 걸 환영합니다.
+
+이 페이지는 박종윤의 개인 프로젝트를 소개하는 페이지입니다.
 
 You can use the [editor on GitHub](https://github.com/whddbs507/whddbs507.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
